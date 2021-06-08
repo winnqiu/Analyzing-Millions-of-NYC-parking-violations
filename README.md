@@ -34,18 +34,18 @@ docker run -v ${pwd}:/src \
 
 I have created 4 visualizations in 1 dashboard on Kibana. 
 
-![](/average reduction amount by country.PNG)
+![](assets/average reduction amount by country.PNG)
 
 Chart 1 "Average reduction amount by county" indicate that NY county has the highest average reduction amount while Queens has the lowest reduction amount.
 
-![](/fine amount count by country.PNG)
+![](assets/fine amount count by country.PNG)
 
 Chart 2 "Fine amount count by county" shows that NY county has issued the most tickets over five counties, and most of the fine amount are 115 and 65, which is much more expensive than in other counties.
 
-![](/fine amount and violation status relationship.PNG)
+![](assets/fine amount and violation status relationship.PNG)
 
 Chart 3 "Fine amount and violation status relationship" shows that tickets with fine amount of 115 and 65 shows a similar pattern regarding  therir violation status, most of the tickets will still have to pay for their ticket, and tickets with fine amount of 35 will more likely to be determined as not guilty or deduct the fine amount.
 
-![](/average fine amount of top five violations.PNG)
+![](assets/average fine amount of top five violations.PNG)
 
 Chart 4 "Average fine amount of top five violations" shows that "No standing-day/time limits" has the highest average fine amount.
