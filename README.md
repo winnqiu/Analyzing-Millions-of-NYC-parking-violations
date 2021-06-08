@@ -1,4 +1,4 @@
-# Project01:Analyzing Millions of NYC Parking Violations
+# Analyzing Millions of NYC Parking Violations
 
 Using AWS EC2 service to build a docker image Bigdata01, run a container of the image and use python scripts to load data into AWS Elasticsearch. Visualized and analyzed data on Kibana.
 
