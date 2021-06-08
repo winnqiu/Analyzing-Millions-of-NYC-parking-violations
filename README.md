@@ -30,7 +30,7 @@ docker run -v ${pwd}:/src \
 
 I have created 4 visualizations in 1 dashboard on Kibana. 
 
-![](assets/average reduction amount by country.PNG)
+<img src='assets/average reduction amount by country.PNG'>
 
 Chart 1 "Average reduction amount by county" indicate that NY county has the highest average reduction amount while Queens has the lowest reduction amount.
 
